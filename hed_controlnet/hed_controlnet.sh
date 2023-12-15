@@ -1,0 +1,2 @@
+model_transform.py  --model_name hed_controlnet  --input_shape [[2,4,64,64],[1],[2,77,768],[2,3,512,512]]  --model_def hed_controlnet_fp16.pt  --mlir hed_controlnet.mlir
+model_deploy.py  --mlir hed_controlnet.mlir  --quantize F16  --chip bm1684x  --model hed_controlnet_1684x_f16.bmodel

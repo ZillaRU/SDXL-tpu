@@ -1,0 +1,11 @@
+*.pyc
+*/__pycache__/*
+models/
+copy.sh
+log.log
+.DS_Store
+run_config_zxh.sh
+*.bmodel
+*.npz
+*.npy
+*.pt
