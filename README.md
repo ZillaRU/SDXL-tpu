@@ -5,7 +5,7 @@
 1. 确保盒子联网，可以尝试ping baidu.com 
 2. 执行 `git clone https://github.com/forechoandlook/aigc` 
 3. `bash prepare.sh` 安装环境 
-4. `bash run.sh` 启动服务
+4. `bash run_v1.sh` 启动SD1.5或2.1，`bash run_xl.sh`启动SDXL。
 
 ## 额外信息 
 1. 内置了`babes20`模型，可以直接使用
