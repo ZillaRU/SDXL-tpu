@@ -1,4 +1,6 @@
 # Aigc
+## 获取Bmodel
+链接: https://pan.baidu.com/s/1HtHiGX01Yjwc6OvoWG_-dA 提取码: 2vky 
 
 ## 部署方式 
 
